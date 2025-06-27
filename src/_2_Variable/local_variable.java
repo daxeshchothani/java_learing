@@ -5,7 +5,7 @@ public class local_variable {
 
     public void find_square(int num)
     {
-        //local variable
+        //local variableeeeee
         //cannot Accessible outside method
         int square=num*num*num;
         System.out.println(square);
